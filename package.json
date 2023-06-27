@@ -10,5 +10,24 @@
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.22",
     "react-cookies": "^0.1.1"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbpatel24/MERN-Blog-Application-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbpatel24/MERN-Blog-Application-Backend/issues"
+  },
+  "homepage": "https://github.com/bbpatel24/MERN-Blog-Application-Backend#readme",
+  "description": ""
 }

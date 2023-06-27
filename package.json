@@ -11,6 +11,9 @@
     "nodemon": "^2.0.22",
     "react-cookies": "^0.1.1"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
